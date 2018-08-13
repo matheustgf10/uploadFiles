@@ -1,1 +1,5 @@
-Admin.php
+<?php 
+
+	class Admin extends Human{
+
+	}

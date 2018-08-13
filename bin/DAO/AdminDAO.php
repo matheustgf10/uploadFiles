@@ -1,1 +1,5 @@
-AdminDAO.php
+<?php 
+
+	class AdminDAO{
+		
+	}

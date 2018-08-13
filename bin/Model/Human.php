@@ -1,1 +1,5 @@
-Human.php
+<?php 
+
+	class Human{
+
+	}
